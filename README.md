@@ -29,5 +29,7 @@ A loja tem como objetivo revender cosméticos variados como perfumes, cremes, ma
 ## inserts
 
 Foram adicionados 10 registros em cada tabela para simular o funcionamento da loja.
+
+
 <img width="729" height="854" alt="cosmeticos" src="https://github.com/user-attachments/assets/888afe38-c4c3-459b-a238-e74604e80817" />
 
