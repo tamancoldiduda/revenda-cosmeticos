@@ -33,3 +33,20 @@ Foram adicionados 10 registros em cada tabela para simular o funcionamento da lo
 
 <img width="729" height="854" alt="cosmeticos" src="https://github.com/user-attachments/assets/888afe38-c4c3-459b-a238-e74604e80817" />
 
+
+# 🌸 Banco de Dados – Revenda de Cosméticos - parte 2 do trabalho 🌸
+
+## O que eu fiz 🛍️
+- Criei tabelas para **clientes, fornecedores, produtos e vendas**.
+- Executei **consultas com LIKE** e melhorei a performance com **índices**.
+- Alterei tipos de dados (`telefone` e `cpf`) garantindo que não houvesse erros.
+- Criei **usuários**: `duda` com acesso completo e `colega` com permissão apenas para SELECT.
+- Realizei **JOINs** para combinar informações entre tabelas (inner, left e right).
+- Atualizei valores **NULL** para deixar os dados consistentes.
+
+## Prints 📸
+- Mostram cada passo: consultas, índices, alterações de tipo, permissões e resultados dos JOINs.
+
+
+
+
